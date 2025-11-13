@@ -1,6 +1,6 @@
 
 {
-  "name": "Simulador Jorge",
+  "name": "Simulador",
   "short_name": "Simulador",
   "start_url": "/",
   "display": "standalone",
@@ -13,4 +13,5 @@
       "type": "image/png"
     }
   ]
+
 }
