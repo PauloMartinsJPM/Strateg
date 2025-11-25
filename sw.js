@@ -1,9 +1,9 @@
 const CACHE_NAME = 'simulador-jorge-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/icon-192.png'
+  './',
+  './index.html',
+  './manifest.json',
+  './icon-192.png'
 ];
 
 // Instala e pré-carrega os arquivos
@@ -37,5 +37,6 @@ self.addEventListener('fetch', event => {
     )
   );
 });
+
 
 
